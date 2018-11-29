@@ -28,7 +28,7 @@ Work
 
     *Data Scientist*, 2016 - present (Boulder, CO)
 
-    Scientific, algorithmic, and product design and analytics in the arena of energy, marketing, and e-commerce.
+    Scientific, algorithmic, product design, and analytics in the arena of energy, marketing, and e-commerce.
         
     - design randomized control trials
     - analyze behavioral energy programs using statistical methods
