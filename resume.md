@@ -1,71 +1,103 @@
-Markdown Resumé
+Elena Dulys
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+Boulder, Colorado
+<http://www.elenadulys.com>
 
-Interests
+About
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+I harness data to make a difference.
+
+Fluency
+------
+
+Python
+
+R
+
+English
+
+Spanish
 
 
-Work Experience
+Work
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Simple Energy**
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *Data Scientist*, 2016 - present (Boulder, CO)
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    Scientific, algorithmic, and product design and analytics in the arena of energy, marketing, and e-commerce.
+        
+    - design randomized control trials
+    - analyze behavioral energy programs using statistical methods
+    - author and maintain machine-learning algorithms
+    - answer difficult business questions by harnessing information, programming, and mathematics
+    - measure and forecast company performance
+    - discover insights to drive company success
+    - review behavioral science literature to inform product design
+ 
+ 
+ 
+*   **The Cadmus Group**
 
-*   **\LaTeX\ + pdflatex**
+    *Energy Services Intern*, 2015 - 2016 (Lansing, MI)
 
-    *Senior Resumé Maker*, 2008 - 2010
+    Data analytics and reporting for utility energy efficiency programs.
+        
+    - analyze and report utility program performance based on Likert-based customer satisfaction ratings / the "Net Promoter Score" from utility customer surveys
+    - verify reported deemed savings for Consumers Energy
+    - assist with research implementation for energy efficient measures
+    - complete administrative work associated with energy efficiency program implementation
+        
+    
+*   **Michigan State University**
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    *Impact Research Analyst*, 2013 - 2014 (East Lansing, Michigan)
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    - Utilized propensity-score matching to analyze a contaminated randomized control trial.
+     
+    
+    
+*   **Virginia Tech**
 
-    *Web Resumé Intern*, August 2010
+    *Sustainability Coordinator*, 2011 - 2012 (Blacksburg, VA)
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    - Coordinated and implemented campus-wide composting, recycling, food donation, local food procurement, and a campus farm for a 30,000 meal per day university dining program.
 
-*   **Markdown with Pandoc**
 
-    *Resumé Architect*, February 2011 - present
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+
+
+
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Michigan State University** (East Lansing, Michigan)
 
-    *B.S. in Submodules*, May 2012
+    *M.Sc. Applied Economics*, 2016
+            
+*   **Virginia Tech** (Blacksburg, VA)
+
+    *B.Sc. Environmental Policy & Planning*, 2010, summa cum laude
+    
+    
+Service
+-------
+
+*   **United States Peace Corps** (Panama)
+
+    *Sustainable Agriculture Systems Volunteer*, 2013 - 2015
 
 
-Skills
-------
+Publicatons
+-----------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*Timber Residue Supply for Bioenergy in the Northern Tier of the Great Lakes: Determinants and availability* forthcoming in *Biomass and Bioenergy* 
 
-*   Familiar with GNU Make, bash
+*Raising the Incomes of Smallholder Farmers in the Central Highlands of Angola: A Model Project for Improving Agricultural Value Chains in Post-Conflict Nations* as a grant report white paper for the Bill and Melinda Gates Foundation
 
-
+*Benefits, Barriers, and Challenges to University-Level Food Waste Tracking* in the *Journal of Hunger and Environmental Nutrition*
