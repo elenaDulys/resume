@@ -89,9 +89,13 @@ Work
 Service
 -------
 
-*   **United States Peace Corps** (Panama)
+*   **Youth Mentor**
 
-    *Sustainable Agriculture Systems Volunteer*, 2013 - 2015
+    *I Have A Dream Foundation*, 2017 - present (Boulder, CO)
+
+*   **Sustainable Agriculture Systems Volunteer**
+
+    *United States Peace Corps*, 2013 - 2015 (Panama)
 
 
 
