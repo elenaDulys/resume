@@ -49,7 +49,7 @@ Work
 
     *The Cadmus Group*, 2015 - 2016 (Lansing, MI)
 
-    Data analytics and reporting for utility energy efficiency programs.
+    Performed data analysis and reporting for utility energy efficiency programs.
 
     - analyzed and report utility program performance based on Likert-based customer satisfaction ratings / the "Net Promoter Score" from utility customer surveys
     - verified reported deemed savings for the utility Consumers Energy
