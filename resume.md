@@ -104,6 +104,26 @@ Fluency
 - Spanish
 
 
+Data Toolbox
+------
+
+- AWS
+- RESTful API
+- PostgreSQL
+- MySQL
+- Cassandra
+- Azure
+
+
+Model Toolbox
+------
+
+- Pooled, time series, and panel-level econometrics
+- Logistic and probit binary dependent variable regression
+- Truncated regression
+- Neural network algorithm applications
+- Cosine similarity and k-means matching
+
 
 Publicatons
 -----------
