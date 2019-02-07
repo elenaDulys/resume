@@ -51,10 +51,11 @@ Work
 
     Performed data analysis and reporting for utility energy efficiency programs.
 
-    - analyzed and report utility program performance based on Likert-based customer satisfaction ratings / the "Net Promoter Score" from utility customer surveys
     - verified reported deemed savings for the utility Consumers Energy
     - assisted with research implementation for energy efficient measures
+    - calculated and crafted reports for utility program performance based on Likert-based customer satisfaction ratings / the "Net Promoter Score" from utility customer surveys
     - completed administrative work associated with energy efficiency program implementation
+
 
 
 
