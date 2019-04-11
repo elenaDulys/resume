@@ -30,11 +30,11 @@ Work
 
     *Simple Energy*, 2016 - present (Boulder, CO)
 
-    Driving energy-wise actions for utility customers through scientific, algorithmic, and product design.
+    Drive energy-wise actions for utility customers through scientific, algorithmic, and product design.
 
     - design and analyze randomized control trials for regulatory behavioral energy programs
     - perform statistical analyses in the arenas of energy, marketing, and e-commerce
-    - author, tune, and maintain machine-learning algorithm applications
+    - create, tune, fix, and maintain machine-learning algorithm applications
     - answer difficult business questions by harnessing information, computation, and mathematics
     - measure and forecast company performance
     - explore data to discover insights, driving company success
@@ -53,8 +53,8 @@ Work
 
     - verified reported deemed savings for the utility Consumers Energy
     - assisted with research implementation for energy efficient measures
-    - calculated and crafted reports for utility program performance based on Likert-based customer satisfaction ratings / the "Net Promoter Score" from utility customer surveys
-    - completed administrative work associated with energy efficiency program implementation
+    - calculated Likert-based customer satisfaction ratings ("Net Promoter Score") from utility customer surveys
+    - crafted energy efficiency program implementation reports
 
 
 
@@ -66,7 +66,7 @@ Work
 
     *Michigan State University*, 2013 - 2014 (East Lansing, Michigan)
 
-    - Utilized propensity-score matching to analyze a contaminated randomized control trial.
+    Utilized propensity-score matching to analyze a contaminated randomized control trial.
 
 
 
@@ -78,7 +78,7 @@ Work
 
     *Virginia Tech*, 2011 - 2012 (Blacksburg, VA)
 
-    - Coordinated and implemented campus-wide composting, recycling, food donation, local food procurement, and a campus farm for a 30,000 meal per day university dining program.
+    Coordinated and implemented campus-wide composting, recycling, food donation, local food procurement, and a campus farm for a 30,000 meal per day university dining program.
 
 
 
@@ -111,7 +111,7 @@ Fluency
 Data Toolbox
 ------
 
-- AWS
+- AWS S3
 - RESTful API
 - PostgreSQL
 - MySQL
@@ -123,10 +123,12 @@ Model Toolbox
 ------
 
 - Pooled, time series, and panel-level econometrics
-- Logistic and probit binary dependent variable regression
+- Logistic or probit binary dependent variable regression
 - Truncated regression
 - Neural network algorithm applications
+- Stochastic regularization techniques (cyclical learning rates)
 - Cosine similarity and k-means matching
+- Stochastic optimization
 
 
 Publicatons
