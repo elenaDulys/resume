@@ -1,8 +1,8 @@
-Elena Dulys
-===============
+Felix E Dulys
+=============
 
 Boulder, Colorado
-<http://www.elenadulys.com>
+<http://www.felixdulys.com>
 
 About
 ---------
