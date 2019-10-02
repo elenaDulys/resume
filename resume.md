@@ -7,14 +7,14 @@ Boulder, Colorado
 About
 ---------
 
-I harness data to make a difference.
+I harness data to make a difference while striving for excellence.
 
 
 
 Education
 ---------
 
-*   **M.Sc. Applied Economics**, 2016
+*   **M.Sc. Applied Economics**, 2016, Peace Corps Masters International Fellow
 
     *Michigan State University* (East Lansing, Michigan)
 
@@ -41,9 +41,10 @@ Work
 
     Drive energy-wise actions for utility customers through scientific, algorithmic, and product design.
 
+    - create, tune, fix, and maintain machine-learning algorithm applications
     - design and analyze randomized control trials for regulatory behavioral energy programs
     - perform statistical analyses in the arenas of energy, marketing, and e-commerce
-    - create, tune, fix, and maintain machine-learning algorithm applications
+
     - answer difficult business questions by harnessing information, computation, and mathematics
     - measure and forecast company performance
     - explore data to discover insights, driving company success
