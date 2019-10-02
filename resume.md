@@ -78,22 +78,6 @@ Work
 
 
 
-
-
-
-
-*   **Sustainability Coordinator**
-
-    *Virginia Tech*, 2011 - 2012 (Blacksburg, VA)
-
-    Coordinated and implemented campus-wide composting, recycling, food donation, local food procurement, and a campus farm for a 30,000 meal per day university dining program.
-
-
-
-
-
-
-
 Service
 -------
 
