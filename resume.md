@@ -127,20 +127,23 @@ Data Toolbox
 - Azure
 
 
-Model Toolbox
-------
+Data Science Toolbox
+--------------------
 
 - Pooled, time series, and panel-level econometrics
-- Logistic or probit binary dependent variable regression
-- Truncated regression
-- Neural network algorithm applications
+- Logistic / probit binary dependent variable regression
+- L1 and L2 regularized regression
+- Neural network algorithm applications, including regression
 - Stochastic regularization techniques (cyclical learning rates)
-- Cosine similarity and k-means matching
+- Cosine similarity and k-means clustering
 - Stochastic optimization
 
 
 Publicatons
 -----------
+
+*What we can learn from 400 years of US executions*: [Towards Data Science](<https://towardsdatascience.com/what-we-can-learn-from-400-years-of-us-executions-a6a8f522dba>)
+
 
 *Timber Residue Supply for Bioenergy in the Northern Tier of the Great Lakes: Determinants and availability*: [Biomass and Bioenergy, 2019, Volume 122](<https://www.sciencedirect.com/science/article/pii/S0961953419300352>)
 
