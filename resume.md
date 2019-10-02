@@ -41,14 +41,12 @@ Work
 
     Drive energy-wise actions for utility customers through scientific, algorithmic, and product design.
 
-    - create, tune, fix, and maintain machine-learning algorithm applications
+    - create, deploy, and maintain machine-learning algorithm applications including neural networks and unsupervised clustering applications
+    - perform ad-hoc analyses in the arenas of energy, marketing, and e-commerce
     - design and analyze randomized control trials for regulatory behavioral energy programs
-    - perform statistical analyses in the arenas of energy, marketing, and e-commerce
-
     - answer difficult business questions by harnessing information, computation, and mathematics
-    - measure and forecast company performance
-    - explore data to discover insights, driving company success
-    - continuously review behavioral science and mathematical literature to inform product design
+    - forecast weather and energy savings
+    - continuously stay up to date on behavioral science and mathematical literature to inform product and software design
 
 
 
