@@ -114,13 +114,14 @@ Data Toolbox
 Data Science Toolbox
 --------------------
 
-- Neural network algorithm applications, including regression (keras / Tensorflow)
+- Neural network algorithm applications, including regression
 - Pooled, time series, and panel-level econometrics
 - Logistic / probit binary dependent variable regression
 - L1 and L2 regularized regression
 - Stochastic regularization techniques (cyclical learning rates)
-- Cosine similarity and k-means clustering (scikit-learn)
+- Cosine similarity and k-means clustering
 - Stochastic optimization
+- pandas, numpy, scikit-learn, keras / Tensorflow, jupyter, seaborn, matplotlib, Gephi, tidyverse
 
 
 Hackathon
