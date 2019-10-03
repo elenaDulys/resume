@@ -41,7 +41,7 @@ Work
 
     Drive energy-wise actions for utility customers through scientific, algorithmic, and product design.
 
-    - create, deploy, and maintain machine-learning algorithm applications including neural networks and unsupervised clustering applications
+    - create, deploy, and maintain production-quality machine-learning algorithm applications including neural networks and unsupervised clustering applications
     - perform ad-hoc analyses in the arenas of energy, marketing, and e-commerce
     - design and analyze randomized control trials for regulatory behavioral energy programs
     - answer difficult business questions by harnessing information, computation, and mathematics
@@ -103,7 +103,7 @@ Fluency
 Data Toolbox
 ------
 
-- AWS S3
+- AWS S3, EC2, Lambda
 - RESTful API
 - PostgreSQL
 - MySQL
@@ -117,9 +117,9 @@ Data Science Toolbox
 - Pooled, time series, and panel-level econometrics
 - Logistic / probit binary dependent variable regression
 - L1 and L2 regularized regression
-- Neural network algorithm applications, including regression
+- Neural network algorithm applications, including regression (keras / Tensorflow)
 - Stochastic regularization techniques (cyclical learning rates)
-- Cosine similarity and k-means clustering
+- Cosine similarity and k-means clustering (scikit-learn)
 - Stochastic optimization
 
 
