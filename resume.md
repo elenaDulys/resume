@@ -123,6 +123,10 @@ Data Science Toolbox
 - Stochastic optimization
 
 
+Hackathon
+---------
+- *MigraHack 2019 Immigration Hackathon* (ongoing project) [Seguros Unidos ICE Raid History and Tracking App](<http://github.com/mariajcb/migrahack>)
+
 Publicatons
 -----------
 
