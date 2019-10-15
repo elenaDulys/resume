@@ -28,7 +28,7 @@ Work
 
 *   **Data Scientist**
 
-    *Uplight*, 2019 - present (Boulder, CO)
+    *Uplight (previous company renamed)*, 2019 - present (Boulder, CO)
 
     In 2019, Simple Energy merged with Tendril, Ecotagious, FirstFuel, and EnergySavvy to create Uplight.
 
