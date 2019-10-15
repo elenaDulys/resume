@@ -60,7 +60,7 @@ Work
 
 *   **Impact Research Analyst**
 
-    *Michigan State University*, 2013 - 2014 (East Lansing, Michigan)
+    *Michigan State University*, 2012 - 2013 (East Lansing, Michigan)
 
     Utilized propensity-score matching to analyze a contaminated randomized control trial.
 
