@@ -89,6 +89,7 @@ Fluency
 
 - Python
 - R
+- SQL
 - English
 - Spanish
 
@@ -98,9 +99,8 @@ Data Toolbox
 
 - AWS S3, EC2, Lambda
 - RESTful API
-- PostgreSQL
+- PostgreSQL, Cassandra
 - MySQL
-- Cassandra
 - Azure
 
 
