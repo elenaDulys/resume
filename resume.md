@@ -99,8 +99,7 @@ Data Toolbox
 
 - AWS S3, EC2, Lambda
 - RESTful API
-- PostgreSQL, Cassandra
-- MySQL
+- PostgreSQL, Cassandra, MySQL
 - Azure
 
 
